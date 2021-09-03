@@ -2,7 +2,7 @@
 `leftpad` is a Python library for padding the left of strings.
 
 # Installation
-`pip install leftpad`
+`pip install leftpadx`
 
 # Usage
 ```
